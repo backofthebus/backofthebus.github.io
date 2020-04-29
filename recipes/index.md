@@ -6,5 +6,10 @@ layout: default
 ---
 
 {% for recipe in site.recipes %}
-  <p><a style="display:inline;" href="{{recipe.link}}" target="_blank">{{ recipe.title }}</a> | {{recipe.description}}</p>
+  <div>
+    <a style="display:inline;" href="{{recipe.link}}" target="_blank">{{ recipe.title }}</a> | {{recipe.description}}
+    {% for tag in recipe.tags %}
+        <span class="tag">{{ recipe.tag }}</span>
+    {% endfor %}
+  </div>
 {% endfor %}
