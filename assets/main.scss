@@ -4,6 +4,12 @@
 
 @import "minima";
 
-.tag {
-    display: inline-block;
+.recipe {
+    padding-bottom: 2em;
+
+    .tag {
+        display: inline-block;
+        padding-right: 1em;
+    }
+
 }
