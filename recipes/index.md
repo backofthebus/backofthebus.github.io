@@ -6,7 +6,7 @@ layout: default
 ---
 
 {% for recipe in site.recipes %}
-  <div>
+  <div class="recipe">
     <a style="display:inline;" href="{{recipe.link}}" target="_blank">{{ recipe.title }}</a> | {{recipe.description}}
     <div>
         {% for tag in recipe.tags %}
