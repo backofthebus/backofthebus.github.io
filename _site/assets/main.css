@@ -503,3 +503,24 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.recipe-title {
+  font-size: 22px;
+  margin-bottom: 0; }
+  .recipe-title a {
+    display: inline; }
+
+.recipe-post {
+  border-bottom: 1px solid #e3e3e3;
+  padding-bottom: 1em;
+  margin-bottom: 1em; }
+
+.tag {
+  display: inline-block;
+  background-color: #e3e3e3;
+  font-size: 10px;
+  font-weight: bold;
+  font-color: #333333;
+  text-transform: uppercase;
+  padding: 3px 6px;
+  border-radius: 3px; }
