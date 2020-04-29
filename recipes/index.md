@@ -9,7 +9,7 @@ layout: default
   <div>
     <a style="display:inline;" href="{{recipe.link}}" target="_blank">{{ recipe.title }}</a> | {{recipe.description}}
     {% for tag in recipe.tags %}
-        <span class="tag">{{ recipe.tag }}</span>
+        <span class="tag">{{ tag }}</span>
     {% endfor %}
   </div>
 {% endfor %}
