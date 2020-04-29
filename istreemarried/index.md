@@ -5,9 +5,10 @@
 layout: home
 ---
 
-
+<center>
 <h1>Is Tree Married? 🤔</h1>
 <br/>
 <br/>
 <br/>
 <h2>No. But she <i>is</i> in Vegas...</h2>
+</center>
