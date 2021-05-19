@@ -533,3 +533,11 @@ table {
   .recipe .recipe-description {
     font-size: 14px;
     margin-bottom: .5em; }
+
+.inline-block {
+  display: inline-block;
+  max-width: 10%; }
+
+.dingledangle img {
+  display: block;
+  margin: 0 auto; }
