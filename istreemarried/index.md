@@ -10,5 +10,5 @@ layout: home
 <br/>
 <br/>
 <br/>
-<h2>No. But she <i>is</i> in Vegas...</h2>
+<h2>No. But she <i>is</i> roadtripping in California again.</h2>
 </center>
