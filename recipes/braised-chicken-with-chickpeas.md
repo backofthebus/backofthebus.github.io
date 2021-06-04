@@ -20,7 +20,7 @@ layout: default
 
 
 #### Ingredient Notes 
-Maras and Aleppo Pepper are tasty, somewhat fruity hot red pepper varieties. They have medium, building, lingering heat. You can substitute standard red pepper flakes, but these re really worth seeking out.
+Maras and Aleppo Pepper are tasty, somewhat fruity hot red pepper varieties. They have medium, building, lingering heat. You can substitute standard red pepper flakes, but these are really worth seeking out.
 
 Turkish Pomegranate Sauce (nar eksisi sos) is a surprisingly tart (almost astringent), slightly sweet pomegranate concentrate that will be the main acid in this dish. If you cant find this, you could probably reduce some pomegranate juice with some lemon juice and perhaps some honey.
 
